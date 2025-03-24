@@ -2,7 +2,7 @@
 
 ## Incorporating colors from Aco scheme by the [Gogh project](https://github.com/Gogh-Co/Gogh)
 
-[palette.png](./palette.png)
+![palette.png](./palette.png)
 
 - Should support most popular languages: JavaScript, TypeScript, Python, etc.
 
