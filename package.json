@@ -1,0 +1,23 @@
+{
+  "name": "asterisk-dark",
+  "displayName": "Asterisk Dark Theme",
+  "description": "Dark theme based on Aco from Gogh",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "./icon.png",
+  "repository": {},
+  "contributes": {
+    "themes": [
+      {
+        "label": "Asterisk Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Asterisk Dark-color-theme.json"
+      }
+    ]
+  }
+}
