@@ -10,7 +10,10 @@
     "Themes"
   ],
   "icon": "./icon.png",
-  "repository": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Asterisk007/asterisk-dark"
+  },
   "contributes": {
     "themes": [
       {
