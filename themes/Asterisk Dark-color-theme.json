@@ -96,6 +96,22 @@
 			}
 		},
 		{
+			"scope": [
+				"meta.class.php",
+			],
+			"settings": {
+				"foreground": "#A265E0"
+			}
+		},
+		{
+			"scope": [
+				"meta.method-call.static.php"
+			],
+			"settings": {
+				"foreground": "#beb4ee",
+			}
+		},
+		{
 			"scope": "function",
 			"settings": {
 				"foreground": "#1E8EFF"
