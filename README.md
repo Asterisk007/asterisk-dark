@@ -6,6 +6,8 @@
 
 - Should support most popular languages: JavaScript, TypeScript, Python, etc.
 
+Licensed under GPLv3
+
 ## Installation
 
 #### Via VS Code marketplace
