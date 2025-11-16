@@ -1,8 +1,9 @@
 {
   "name": "asterisk-dark",
+  "publisher": "AsteriskCodetools",
   "displayName": "Asterisk Dark Theme",
   "description": "Dark theme based on Aco from Gogh",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.98.0"
   },
